@@ -1,0 +1,11 @@
+# secrets
+.env
+# venv / python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# LLM + network cache (raw fetches ARE committed under data/raw; call-cache is not)
+.cache/
+# local harness state
+.claude/
