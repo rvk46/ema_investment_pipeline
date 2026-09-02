@@ -1,0 +1,31 @@
+[project]
+name = "vc-pipeline"
+version = "0.1.0"
+description = "AI-augmented VC triage pipeline: source -> analyze -> recommend"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28",
+    "pydantic>=2.10",
+    "typer>=0.15",
+    "rich>=13",
+    "openai>=1.60",
+    "python-dotenv>=1.0",
+    "tenacity>=9",
+    "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+pipeline = "pipeline.cli:app"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["pipeline"]

@@ -1,0 +1,70 @@
+{
+  "thesis_discrimination": {
+    "mean_thesis_fit_high": 86.7,
+    "mean_thesis_fit_low": 40,
+    "margin": 46.7,
+    "cleanly_separated": true,
+    "min_high": 85,
+    "max_low": 70
+  },
+  "call_agreement": {
+    "agreement": 1.0,
+    "n": 6,
+    "rows": [
+      {
+        "slug": "egress-health",
+        "call": "Take a meeting",
+        "acceptable": [
+          "Watch",
+          "Take a meeting"
+        ],
+        "ok": true
+      },
+      {
+        "slug": "toothy-ai",
+        "call": "Take a meeting",
+        "acceptable": [
+          "Watch",
+          "Take a meeting"
+        ],
+        "ok": true
+      },
+      {
+        "slug": "harbera",
+        "call": "Take a meeting",
+        "acceptable": [
+          "Watch",
+          "Take a meeting"
+        ],
+        "ok": true
+      },
+      {
+        "slug": "uncommon-therapeutics",
+        "call": "Watch",
+        "acceptable": [
+          "Pass",
+          "Watch"
+        ],
+        "ok": true
+      },
+      {
+        "slug": "exin-therapeutics",
+        "call": "Watch",
+        "acceptable": [
+          "Pass",
+          "Watch"
+        ],
+        "ok": true
+      },
+      {
+        "slug": "amby-health",
+        "call": "Watch",
+        "acceptable": [
+          "Pass",
+          "Watch"
+        ],
+        "ok": true
+      }
+    ]
+  }
+}

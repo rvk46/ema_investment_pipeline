@@ -1,0 +1,11 @@
+{
+  "_note": "Hand labels for a lite eval. Only clear-cut companies are labelled — ambiguous ones (e.g. vague 'healthcare AI') are intentionally excluded so the eval stays honest. 'thesis' is the expected direction against THESIS.md; 'acceptable_calls' is the set of calls a defensible triage could make (absolute thresholds, no budget).",
+  "labels": [
+    {"slug": "egress-health",         "thesis": "high", "why": "Automated revenue cycle management for dentists — vertical AI agent, regulated back-office.", "acceptable_calls": ["Watch", "Take a meeting"]},
+    {"slug": "toothy-ai",             "thesis": "high", "why": "Insurance verification & billing for dental clinics — back-office automation.",            "acceptable_calls": ["Watch", "Take a meeting"]},
+    {"slug": "harbera",               "thesis": "high", "why": "Provider credentialing software — compliance-heavy back-office workflow.",                 "acceptable_calls": ["Watch", "Take a meeting"]},
+    {"slug": "uncommon-therapeutics", "thesis": "low",  "why": "Biotech drug development — not software, capital-intensive; off-thesis.",                   "acceptable_calls": ["Pass", "Watch"]},
+    {"slug": "exin-therapeutics",     "thesis": "low",  "why": "AI drug discovery / research lab — off-thesis.",                                            "acceptable_calls": ["Pass", "Watch"]},
+    {"slug": "amby-health",           "thesis": "low",  "why": "Consumer health-coach texting app — consumer, off-thesis.",                                "acceptable_calls": ["Pass", "Watch"]}
+  ]
+}

@@ -1,0 +1,1371 @@
+[
+  {
+    "slug": "egress-health",
+    "name": "Egress Health",
+    "team": "The team consists of Alex Pedersen, who has a background in computer science from Harvard and experience at Microsoft. This suggests strong technical capabilities but lacks specific domain expertise in healthcare or dental operations.",
+    "product": "Egress Health offers AI agents that automate revenue cycle management tasks for dental offices. These tasks include eligibility checks, claims scrubbing, payment posting, and denial management, aiming to reduce headcount and increase revenue collection.",
+    "market": "The company targets the healthcare industry, specifically dental offices, which spend over $160 billion annually on revenue cycle management. The product addresses a significant pain point by automating labor-intensive tasks and improving revenue collection.",
+    "risks": [
+      "Limited domain expertise in healthcare or dental operations.",
+      "Potential challenges in scaling beyond dental offices to other healthcare verticals."
+    ],
+    "open_questions": [
+      "What specific AI technologies are being used in the product?",
+      "How does the company ensure compliance with healthcare regulations?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 85,
+        "rationale": "The product is a vertical AI agent automating back-office operations in the regulated healthcare industry, aligning well with the thesis."
+      },
+      "team": {
+        "score": 60,
+        "rationale": "The founder has strong technical credentials but lacks specific healthcare domain expertise."
+      },
+      "market_why_now": {
+        "score": 75,
+        "rationale": "The large market size and existing pain points in revenue cycle management create a compelling opportunity."
+      },
+      "moat": {
+        "score": 70,
+        "rationale": "The integration with insurance websites and practice management systems provides some defensibility, though details are sparse."
+      },
+      "traction": {
+        "score": 80,
+        "rationale": "The company has processed $14M in reimbursements and expanded to dozens of locations, indicating strong early traction."
+      }
+    },
+    "weighted_score": 75,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Details on specific AI technologies used.",
+      "Information on compliance measures with healthcare regulations.",
+      "Additional founder or team member information.",
+      "Homepage text unavailable \u2014 analysis based on YC fields only."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "YC status",
+        "value": "Acquired",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2023-08-01",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "Founders (1)",
+        "value": "Alex Pedersen (Founder)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/egress-health"
+      },
+      {
+        "label": "Website",
+        "value": "https://tryegress.com",
+        "source_kind": "website",
+        "source_url": "https://tryegress.com"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.018991+00:00"
+  },
+  {
+    "slug": "uncommon-therapeutics",
+    "name": "Uncommon Therapeutics",
+    "team": "The team consists of Noah Auerhahn, a serial entrepreneur with personal motivation and experience in building therapies for rare diseases, and Ryan Lim, a biotech entrepreneur and biomedical scientist with expertise in neurological disorders. Their backgrounds provide strong domain fit for the biotech industry.",
+    "product": "Uncommon Therapeutics is developing therapeutics for rare diseases, starting with Rett Syndrome, using a polytherapy strategy. Their approach involves leveraging existing technologies and deep disease expertise to create drugs that target the underlying causes of these diseases.",
+    "market": "The company is targeting the biotech market, specifically focusing on rare diseases like Rett Syndrome. The market is ripe for innovation due to advancements in AI and the expiration of key biotech patents, making it easier and cheaper to develop new drugs.",
+    "risks": [
+      "High R&D costs and long timelines typical of biotech",
+      "Regulatory hurdles in drug approval",
+      "Dependence on successful clinical trials"
+    ],
+    "open_questions": [
+      "What specific AI technologies are being used in their drug development process?",
+      "What is the current stage of their drug development pipeline?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 20,
+        "rationale": "The company is focused on biotech drug development, which does not align with the fund's thesis of vertical AI agents for back-office automation."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The founders have strong domain expertise and personal motivation, which is crucial for success in biotech."
+      },
+      "market_why_now": {
+        "score": 70,
+        "rationale": "The biotech market is experiencing a favorable environment due to AI advancements and patent expirations."
+      },
+      "moat": {
+        "score": 60,
+        "rationale": "Their deep disease expertise and unique polytherapy approach provide some defensibility, but biotech is inherently high-risk."
+      },
+      "traction": {
+        "score": 40,
+        "rationale": "There is no significant external traction or presence on platforms like Hacker News, and no open roles suggest early-stage development."
+      }
+    },
+    "weighted_score": 50,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific AI technologies used",
+      "Stage of drug development pipeline",
+      "Regulatory compliance status"
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-02-21",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Noah Auerhahn (Founder/CEO); Ryan Lim (Founder)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/uncommon-therapeutics"
+      },
+      {
+        "label": "Website",
+        "value": "https://uncommontherapeutics.com",
+        "source_kind": "website",
+        "source_url": "https://uncommontherapeutics.com"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://uncommontherapeutics.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.019200+00:00"
+  },
+  {
+    "slug": "exin-therapeutics",
+    "name": "Exin Therapeutics",
+    "team": "The team consists of three Oxford-trained neuroscientists, including Gabriel Ocana Santero and Marko Tvrdic, both with strong academic backgrounds in neuroscience and pharmacology. Their experience in neuroAI and gene therapy is relevant to the company's focus on neurotherapeutics.",
+    "product": "Exin Therapeutics is developing an AI-driven drug discovery platform focused on neurotherapeutics. The platform uses AI models and high-throughput mouse studies to identify and develop therapies for neurological disorders like epilepsy and Parkinson's disease by targeting neural circuitry imbalances.",
+    "market": "The market for neurotherapeutics is significant, given the millions affected by neurological disorders worldwide. The company's focus on using AI to streamline drug discovery addresses the complexity and slow pace of traditional drug development in this field.",
+    "risks": [
+      "The platform's success heavily depends on the accuracy and predictive power of its AI models.",
+      "Regulatory hurdles in drug development could delay time to market."
+    ],
+    "open_questions": [
+      "What specific AI technologies are being used in the platform?",
+      "Are there any partnerships with pharmaceutical companies for drug development?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 30,
+        "rationale": "The company focuses on AI for drug discovery in healthcare, but it does not automate back-office operations in a regulated industry."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The founders have strong academic and research backgrounds relevant to neurotherapeutics."
+      },
+      "market_why_now": {
+        "score": 70,
+        "rationale": "There is a clear need for innovative approaches in neurotherapeutics, and AI offers a timely solution to accelerate drug discovery."
+      },
+      "moat": {
+        "score": 60,
+        "rationale": "The use of proprietary AI models and in-house generated data provides some defensibility, but details on integration and compliance are unclear."
+      },
+      "traction": {
+        "score": 40,
+        "rationale": "The company has made progress in R&D and patent submissions, but lacks external traction signals like partnerships or customer validation."
+      }
+    },
+    "weighted_score": 53,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific AI technologies used",
+      "Details on partnerships or collaborations",
+      "Compliance and regulatory strategy"
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "Team size",
+        "value": "9",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-01-14",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Gabriel Ocana Santero (Founder/CEO); Marko Tvrdic (Founder/COO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/exin-therapeutics"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.exintherapeutics.com/",
+        "source_kind": "website",
+        "source_url": "https://www.exintherapeutics.com/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.exintherapeutics.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.019442+00:00"
+  },
+  {
+    "slug": "vocality-health",
+    "name": "Vocality Health",
+    "team": "Brogan McPartland is a co-founder with a background in computer science from Harvard and experience scaling a successful app in India. Vivek, the other co-founder, holds a PhD in speech generative models, indicating strong technical expertise relevant to the product. Both have prior entrepreneurial experience with Fulltrack AI.",
+    "product": "Vocality Health offers an AI-powered medical language interpretation platform designed for hospitals. It provides real-time, accurate translations to eliminate the need for human interpreters, integrating directly into hospital workflows to improve patient care and reduce costs.",
+    "market": "The product addresses a significant need in healthcare for effective communication with non-English-speaking patients. Hospitals currently spend billions on interpretation services, indicating a substantial existing budget and market opportunity.",
+    "risks": [
+      "Potential challenges in achieving and maintaining medical compliance and privacy standards.",
+      "Dependence on hospital integration could slow adoption."
+    ],
+    "open_questions": [
+      "What specific compliance certifications does Vocality Health hold?",
+      "Are there any existing hospital partnerships or pilot programs?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 85,
+        "rationale": "The product is a vertical AI solution targeting a regulated healthcare domain, replacing human interpreters with AI."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The founders have relevant technical expertise and entrepreneurial experience, though specific healthcare domain experience is less clear."
+      },
+      "market_why_now": {
+        "score": 80,
+        "rationale": "There is a clear market need and existing budget for language interpretation in healthcare, making this a timely solution."
+      },
+      "moat": {
+        "score": 70,
+        "rationale": "Integration into hospital workflows and focus on compliance provide some defensibility, but details on data and compliance depth are unclear."
+      },
+      "traction": {
+        "score": 50,
+        "rationale": "The company is in early stages with no external traction signals found, though they claim hospitals are signing up."
+      }
+    },
+    "weighted_score": 74,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific compliance certifications",
+      "Details on current hospital partnerships or pilot programs",
+      "External traction or customer testimonials"
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "Year founded",
+        "value": "2025",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-02-27",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "Founders (1)",
+        "value": "Brogan McPartland (Founder/CEO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.vocalityhealth.com",
+        "source_kind": "website",
+        "source_url": "https://www.vocalityhealth.com"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.vocalityhealth.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.019896+00:00"
+  },
+  {
+    "slug": "toothy-ai",
+    "name": "Toothy AI",
+    "team": "The founding team consists of Johnny Chen, Matt Kerrigan, and Tejas Konduru. Johnny and Matt are both second-time founders with experience in AI and automation, having previously built AI-driven solutions. Johnny has a background in full stack engineering and operations management, while Matt has experience in machine learning. Tejas's background is less detailed but suggests a focus on healthcare AI.",
+    "product": "Toothy AI develops AI agents that automate insurance verification and billing processes for dental clinics. Their solution handles tasks such as insurance verification, claim creation and submission, denial correction, and payment posting. The product aims to reduce the administrative burden on dental practices, potentially cutting back-office staff by 50-75%.",
+    "market": "The dental industry faces significant challenges with back-office operations, spending billions annually on these tasks. With a labor shortage and financial concerns due to revenue cycle management challenges, there is a clear need for automation solutions like Toothy AI. The market is ripe for disruption, especially given the high costs and time associated with current manual processes.",
+    "risks": [
+      "Potential competition from established healthcare software providers.",
+      "Reliance on dental clinics' willingness to adopt new technology."
+    ],
+    "open_questions": [
+      "What specific compliance measures are in place beyond HIPAA?",
+      "Are there any existing partnerships with dental practice management systems?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 90,
+        "rationale": "The product is an AI-native solution targeting a regulated industry (dental healthcare) and automates labor-intensive back-office operations."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The team has relevant experience in AI and automation, with both founders having prior startup experience."
+      },
+      "market_why_now": {
+        "score": 80,
+        "rationale": "The market is experiencing labor shortages and financial pressures, creating a strong demand for automation solutions."
+      },
+      "moat": {
+        "score": 70,
+        "rationale": "The product's integration with dental practice workflows and compliance with HIPAA provide some defensibility."
+      },
+      "traction": {
+        "score": 60,
+        "rationale": "Early customer adoption is indicated, but there is no significant external traction or Hacker News presence yet."
+      }
+    },
+    "weighted_score": 78,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific compliance certifications beyond HIPAA.",
+      "Details on existing customer base and partnerships."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Team size",
+        "value": "15",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-01-07",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Founders (3)",
+        "value": "Johnny Chen (Founder/CEO); Matt Kerrigan (Founder/CTO); Tejas Konduru (Founder/CRO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Hiring (1 open)",
+        "value": "Founding Lead Engineer",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.toothy.ai/",
+        "source_kind": "website",
+        "source_url": "https://www.toothy.ai/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.toothy.ai/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "3 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020014+00:00"
+  },
+  {
+    "slug": "amby-health",
+    "name": "Amby Health",
+    "team": "Yos Wagenmans and Timmy Dang are the co-founders of Amby Health. Yos has a background in ML research at MIT CSAIL and experience at Meta and ALLM, while Timmy has worked in software at Amazon and Bloomberg and in healthcare analytics at OM1. Both have relevant experience in AI and healthcare.",
+    "product": "Amby Health offers an AI-powered solution for EMS agencies to automate quality reviews and billing processes. It identifies errors, provides real-time feedback, and optimizes billing to increase revenue and reduce manual work.",
+    "market": "The product targets EMS agencies, addressing inefficiencies in manual quality reviews and billing processes. The healthcare sector, particularly EMS, is a regulated industry with a need for compliance and efficiency improvements.",
+    "risks": [
+      "Potential misalignment between the AI health coach and the EMS automation product.",
+      "Lack of external traction or named customers."
+    ],
+    "open_questions": [
+      "Is the AI health coach product separate from the EMS automation solution?",
+      "What is the current adoption rate among EMS agencies?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 70,
+        "rationale": "The EMS automation solution fits the thesis as it targets a regulated industry and automates labor-intensive back-office operations."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The founders have strong technical and domain expertise in AI and healthcare, relevant to the product's focus."
+      },
+      "market_why_now": {
+        "score": 65,
+        "rationale": "The need for efficiency and compliance in EMS billing and quality reviews presents a timely opportunity."
+      },
+      "moat": {
+        "score": 60,
+        "rationale": "The product's integration with EMS processes and real-time feedback offers some defensibility, but more evidence is needed."
+      },
+      "traction": {
+        "score": 40,
+        "rationale": "There is no evidence of external traction or customer adoption, and no presence on Hacker News."
+      }
+    },
+    "weighted_score": 64,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific customer adoption or revenue metrics.",
+      "Clarification on the relationship between the AI health coach and EMS automation product."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "Year founded",
+        "value": "2025",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-02-02",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Yos Wagenmans (Founder/CEO); Timmy Dang (Founder/CTO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "label": "Website",
+        "value": "https://tryamby.com",
+        "source_kind": "website",
+        "source_url": "https://tryamby.com"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://tryamby.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020134+00:00"
+  },
+  {
+    "slug": "healthkey",
+    "name": "HealthKey",
+    "team": "Josh Sabol is the Founder/CEO of HealthKey. He was previously a Product Manager at AWS, where he helped automate a significant supply chain, and the first PM at Plate IQ, a B2B accounting tool that grew significantly during his tenure.",
+    "product": "HealthKey uses AI to prescreen patients for clinical trials by integrating with EHR systems to analyze medical records against trial eligibility criteria. This process aims to streamline patient enrollment, reduce manual effort, and increase revenue for clinics.",
+    "market": "The market for HealthKey includes doctors' offices and clinical trial teams who benefit financially from enrolling patients in trials. The timing is favorable as the healthcare industry increasingly adopts AI solutions to improve efficiency and outcomes.",
+    "risks": [
+      "Potential challenges in integrating with diverse EHR systems.",
+      "Dependence on accurate AI prescreening for patient eligibility."
+    ],
+    "open_questions": [
+      "What specific AI technologies are used for prescreening?",
+      "How does HealthKey ensure compliance with evolving healthcare regulations?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 80,
+        "rationale": "HealthKey fits the thesis by automating a labor-intensive process in the regulated healthcare industry using AI."
+      },
+      "team": {
+        "score": 70,
+        "rationale": "Josh Sabol has relevant experience in automation and B2B product management, though more information on other team members is needed."
+      },
+      "market_why_now": {
+        "score": 75,
+        "rationale": "The solution addresses a clear pain point in clinical trial enrollment, with a strong financial incentive for clinics to adopt it."
+      },
+      "moat": {
+        "score": 65,
+        "rationale": "The integration with EHR systems and AI-driven prescreening provide some defensibility, though details on proprietary technology are limited."
+      },
+      "traction": {
+        "score": 50,
+        "rationale": "The company is early-stage with no significant external traction signals found, but it has launched and is actively seeking customers."
+      }
+    },
+    "weighted_score": 70,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Details on AI technology and algorithms used.",
+      "Information on other team members and their backgrounds.",
+      "Specific customer adoption metrics or case studies."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "Team size",
+        "value": "10",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "Year founded",
+        "value": "2025",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-01-19",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "Founders (1)",
+        "value": "Josh Sabol (Founder/CEO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      },
+      {
+        "label": "Website",
+        "value": "https://gethealthkey.com/",
+        "source_kind": "website",
+        "source_url": "https://gethealthkey.com/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://gethealthkey.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020235+00:00"
+  },
+  {
+    "slug": "10x",
+    "name": "10x",
+    "team": "The team consists of Max Bohun, Founder/CEO, and Aman Garg, Founder/CTO. Max has experience in AI applications for dental practices, while Aman has a background in AI for educational tools and studied CS at Cornell. The team appears to have relevant technical expertise but lacks explicit prior-exit signals.",
+    "product": "10x provides AI-driven sales teams for dental practices, focusing on converting missed revenue opportunities into booked appointments. The product integrates with practice management systems to identify overdue recalls and unscheduled treatments, using AI to contact patients via calls and texts to schedule appointments.",
+    "market": "The product targets dental practices, a segment within the healthcare industry, aiming to increase revenue by optimizing patient recall processes. The market opportunity lies in the inefficiencies of current patient follow-up systems, with a focus on practices that already have patient databases.",
+    "risks": [
+      "Potential for competition from existing CRM and patient management tools.",
+      "Dependence on dental practices' willingness to adopt new AI technologies."
+    ],
+    "open_questions": [
+      "What is the pricing model and how does it compare to existing solutions?",
+      "What specific compliance measures are in place beyond HIPAA?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 70,
+        "rationale": "The product automates a labor-intensive back-office operation in the healthcare industry, aligning well with the thesis."
+      },
+      "team": {
+        "score": 60,
+        "rationale": "The team has relevant technical expertise but lacks clear domain experience in dental practices or prior-exit signals."
+      },
+      "market_why_now": {
+        "score": 65,
+        "rationale": "The market opportunity is driven by inefficiencies in current patient recall systems, but the 'why now' is not strongly articulated."
+      },
+      "moat": {
+        "score": 55,
+        "rationale": "Integration with practice management systems and HIPAA compliance provide some defensibility, but the product could be replicated by competitors."
+      },
+      "traction": {
+        "score": 70,
+        "rationale": "The product is live in multiple dental groups across the U.S., showing early traction, but lacks external validation from sources like Hacker News."
+      }
+    },
+    "weighted_score": 65,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Detailed compliance measures beyond HIPAA.",
+      "Specific pricing model details.",
+      "External validation or customer testimonials beyond the website."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Year founded",
+        "value": "2025",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-01-06",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Max Bohun (Founder/CEO); Aman Garg (Founder/CTO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Hiring (1 open)",
+        "value": "\ud83e\uddb7 Founding Engineer at 10x Dental (YC W25)",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/10x"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.10xdental.com/",
+        "source_kind": "website",
+        "source_url": "https://www.10xdental.com/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.10xdental.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020351+00:00"
+  },
+  {
+    "slug": "mecha-health",
+    "name": "Mecha Health",
+    "team": "The founding team of Mecha Health is highly qualified, with strong backgrounds in machine learning, medical imaging, and healthcare. Ahmed Abdulaal is a medical doctor and former research scientist with extensive publications. Hugo Fry has a strong academic background in mathematics and physics, with notable research contributions. Ayodeji Ijishakin is a PhD candidate with significant research experience in machine learning and medical imaging. Nina Monta\u00f1a Brown has experience in medical device startups and a PhD in Medical Imaging, with work published in high-impact venues.",
+    "product": "Mecha Health develops foundation models to automate x-ray analysis, producing draft medical reports for radiologists. Their models are designed to integrate seamlessly into existing workflows, supporting multi-anatomy, multi-modality, and multi-view reasoning. The product aims to significantly increase the efficiency of radiologists by reducing the time taken to analyze scans.",
+    "market": "The market for automated x-ray analysis is substantial, with a reported $40B+ opportunity. The product addresses a critical need in healthcare due to a shortage of radiologists and increasing workloads, which contribute to burnout and delayed patient care. The company's partnerships with major radiology practices indicate a strong market interest.",
+    "risks": [
+      "Reliance on proprietary models may face competition from larger tech companies.",
+      "Integration into existing healthcare workflows may encounter resistance or technical challenges."
+    ],
+    "open_questions": [
+      "What specific compliance measures are in place to ensure the safety and accuracy of the AI models?",
+      "What is the current status of the partnerships with the radiology practice and tele-radiology company?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 80,
+        "rationale": "The company fits the thesis well by automating a labor-intensive process in a regulated healthcare domain."
+      },
+      "team": {
+        "score": 85,
+        "rationale": "The team has strong domain expertise in machine learning and medical imaging, with significant academic and industry experience."
+      },
+      "market_why_now": {
+        "score": 75,
+        "rationale": "The increasing demand for radiology services and shortage of radiologists create a timely market opportunity."
+      },
+      "moat": {
+        "score": 70,
+        "rationale": "Proprietary models and partnerships provide some defensibility, but competition from larger tech companies is a risk."
+      },
+      "traction": {
+        "score": 60,
+        "rationale": "Partnerships with major radiology practices suggest initial traction, but lack of external validation on platforms like Hacker News is a mild concern."
+      }
+    },
+    "weighted_score": 76,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific compliance certifications or regulatory approvals.",
+      "Details on the current status and terms of partnerships."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "Team size",
+        "value": "4",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-01-17",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "Founders (4)",
+        "value": "Ahmed Abdulaal (Founder/CEO); Hugo Fry (Founder); Ayodeji Ijishakin (Founder); Nina Monta\u00f1a Brown (Founder/CTO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.mecha-health.ai/",
+        "source_kind": "website",
+        "source_url": "https://www.mecha-health.ai/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.mecha-health.ai/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "4 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020454+00:00"
+  },
+  {
+    "slug": "harbera",
+    "name": "Harbera",
+    "team": "Sophia Clark and Veronica Nutting are the founders of Harbera. Both have strong technical backgrounds with experience in healthcare and tech companies, including House Rx and Stripe. They studied Computer Science at Harvard, which adds credibility to their technical expertise.",
+    "product": "Harbera provides AI-driven software for healthcare provider credentialing. The platform automates the monitoring and re-credentialing of healthcare providers to ensure they remain in-network with insurers, preventing revenue loss and disruptions in patient care. It integrates with existing systems and offers features like document validation, credentialing trend analysis, and revenue cycle automation.",
+    "market": "The healthcare credentialing market is significant due to the complexity and necessity of maintaining provider compliance with insurance requirements. With over 900 insurance companies in the U.S. and varying credentialing requirements, there is a clear need for automation in this space to prevent revenue loss and improve efficiency.",
+    "risks": [
+      "Potential competition from established healthcare IT solutions.",
+      "Dependence on integration with existing healthcare systems, which may vary widely."
+    ],
+    "open_questions": [
+      "What specific AI technologies are used in the platform?",
+      "Are there any existing customers or partnerships with healthcare organizations?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 85,
+        "rationale": "The product fits well as a vertical AI agent in the regulated healthcare industry, focusing on back-office operations."
+      },
+      "team": {
+        "score": 75,
+        "rationale": "The founders have strong technical backgrounds and relevant industry experience, but lack of prior entrepreneurial success is noted."
+      },
+      "market_why_now": {
+        "score": 70,
+        "rationale": "The complexity and necessity of credentialing in healthcare create a timely opportunity for automation solutions."
+      },
+      "moat": {
+        "score": 65,
+        "rationale": "The integration and automation features provide some defensibility, but details on proprietary technology are unclear."
+      },
+      "traction": {
+        "score": 50,
+        "rationale": "No external traction or customer evidence is provided, and there is no Hacker News presence."
+      }
+    },
+    "weighted_score": 72,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific AI technologies and methodologies used.",
+      "Evidence of customer adoption or partnerships."
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "Year founded",
+        "value": "2025",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-02-13",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Sophia Clark (Founder/CEO); Veronica Nutting (Founder/CTO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "label": "Website",
+        "value": "https://harbera.com/",
+        "source_kind": "website",
+        "source_url": "https://harbera.com/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://harbera.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020642+00:00"
+  },
+  {
+    "slug": "paratus-health",
+    "name": "Paratus Health",
+    "team": "The founders, Pablo Bermudez-Canete and Tannen Hall, both have backgrounds in digital healthcare and AI from Stanford, which suggests strong technical expertise and domain knowledge in healthcare. However, there is no mention of prior entrepreneurial experience or exits.",
+    "product": "Paratus Health offers AI-powered voice agents for outpatient facilities to automate patient intake. The system uses conversational AI to gather patient symptoms and history, providing structured clinical summaries to doctors before visits, aiming to replace traditional intake forms and triage nurses.",
+    "market": "The product targets outpatient healthcare facilities, addressing inefficiencies in patient intake processes. The market for healthcare IT solutions is growing, driven by the need for cost reduction and efficiency improvements in healthcare operations.",
+    "risks": [
+      "Potential challenges in achieving seamless integration with existing healthcare IT systems.",
+      "Dependence on AI accuracy and reliability in clinical settings could pose risks."
+    ],
+    "open_questions": [
+      "What specific compliance measures are in place to ensure patient data privacy and security?",
+      "Are there any existing partnerships or integrations with major EHR systems?"
+    ],
+    "axes": {
+      "thesis_fit": {
+        "score": 80,
+        "rationale": "The product is an AI agent targeting a regulated healthcare domain, automating a labor-intensive back-office operation."
+      },
+      "team": {
+        "score": 65,
+        "rationale": "Founders have relevant technical and domain expertise, but no evidence of prior entrepreneurial success."
+      },
+      "market_why_now": {
+        "score": 70,
+        "rationale": "Growing demand for healthcare efficiency and cost reduction supports the timing for AI solutions in this space."
+      },
+      "moat": {
+        "score": 60,
+        "rationale": "The use of Schmitt-Thompson protocols and integration claims suggest some defensibility, but details are sparse."
+      },
+      "traction": {
+        "score": 50,
+        "rationale": "Claims of being trusted by hundreds of companies and patient interaction metrics are positive, but lack external validation or named customers."
+      }
+    },
+    "weighted_score": 68,
+    "fatal_risk": false,
+    "data_gaps": [
+      "Specific compliance certifications or measures",
+      "Details on EHR system integrations",
+      "External validation or named customer references"
+    ],
+    "signals": [
+      {
+        "label": "YC batch",
+        "value": "Winter 2025",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "YC status",
+        "value": "Active",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "YC stage",
+        "value": "Early",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "Team size",
+        "value": "2",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "Year founded",
+        "value": "2024",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "Launched (YC)",
+        "value": "2025-02-19",
+        "source_kind": "yc",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "Founders (2)",
+        "value": "Pablo Bermudez-Canete (Founder/CEO); Tannen Hall (Founder/CTO)",
+        "source_kind": "yc-founders",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "YC Launch post",
+        "value": "present",
+        "source_kind": "yc-launch",
+        "source_url": "https://www.ycombinator.com/companies/paratus-health"
+      },
+      {
+        "label": "Website",
+        "value": "https://paratushealth.com/",
+        "source_kind": "website",
+        "source_url": "https://paratushealth.com/"
+      }
+    ],
+    "citations": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://paratushealth.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "YC Launch post"
+      }
+    ],
+    "model": "gpt-4o",
+    "analyzed_at": "2026-09-02T06:10:09.020790+00:00"
+  }
+]

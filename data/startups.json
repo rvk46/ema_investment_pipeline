@@ -1,0 +1,834 @@
+[
+  {
+    "name": "Egress Health",
+    "slug": "egress-health",
+    "website": "https://tryegress.com",
+    "one_liner": "Automated revenue cycle management, starting with dentists",
+    "description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "industry": "Healthcare",
+    "tags": [],
+    "team_size": 2,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Acquired",
+    "yc_stage": "Early",
+    "launched_at": 1690905553,
+    "yc_url": "https://www.ycombinator.com/companies/egress-health",
+    "site_text": "",
+    "site_fetch_ok": false,
+    "founders": [
+      {
+        "name": "Alex Pedersen",
+        "title": "Founder",
+        "bio": "Co-founder of Egress. Prev Microsoft, Harvard CS",
+        "linkedin_url": "https://linkedin.com/in/alex-pedersen-30340915a",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Egress Health: AI that gets doctors paid\nHi! I\u2019m Alex, founder of Egress Health. We\u2019re building AI agents to automate the work healthcare providers do to get paid by insurance (aka \u201crevenue cycle management\u201d). Our first customers are dental clinics.\n\n# TL;DR:\n\n* **Our average customer eliminates 1-2 full time employees and sees a 5-15% increase in collections.**\n* Since launching in late October, we\u2019ve expanded to dozens of locations across the country and processed $14M in reimbursements.\n* [Watch our video](https://www.youtube.com/watch?v=RzmQSBHpq5I)\n\n# Problem:\n\nIn the back of every healthcare provider's office there are staff who spend their whole day doing repetitive, mundane tasks necessary to get reimbursed by insurance. Failure to keep up with this work results in significant (sometimes existential) financial loss.\u00a0\n\nWe learned about these consequences from a family friend, who is a dental provider. Suffering from staff turnover, the practice where she worked struggled to collect even 70% of what they were owed and nearly missed payroll as a result.\u00a0\n\nThis story is not uncommon. Healthcare providers will spend &gt;$160B on revenue cycle work this year and even the best run clinics still won\u2019t collect everything they are owed.\u00a0\n\nWe\u2019re building Egress Health to help providers collect 100%.\n\n# Solution:\n\nWe\u2019re building AI agents that complete these revenue cycle tasks faster, and more accurately than any human. Our agents navigate insurance websites and practice management systems, automating away the need for administrative staff and billing specialists. Our average customer eliminates 1-2 full time employees after implementing and sees a 5-15% increase in collections.\n\nSince launching in late October, we\u2019ve expanded to dozens of locations across the country and processed $14M in reimbursements.\n\n# Team:\n\nAlex studied CS at Harvard and previously worked at Microsoft. \n\n# Asks:\n\nWe\u2019re looking to partner with independent practices, DSOs, and DPOs looking to automate their administrative workflows. If that sounds like you, please [book a meeting](https://calendly.com/egress-alex/30min) or reach out to us at [founders@tryegress.com](mailto:founders@tryegress.com) to learn more.",
+    "job_titles": [],
+    "hn": {
+      "domain": "tryegress.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/egress-health",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Uncommon Therapeutics",
+    "slug": "uncommon-therapeutics",
+    "website": "https://uncommontherapeutics.com",
+    "one_liner": "A Disease Focused Biotech, Building Multiple Billion Dollar Drugs",
+    "description": "Our founder Noah, an experienced tech entrepreneur, was directly impacted by a severe genetic disease when his daughter was diagnosed with Rett Syndrome, a disease that afflicts 1 in 10,000 girls. Using an innovative polytherapy strategy, we\u2019ve successfully improved her quality of life, and have designed new therapeutics that each could be worth billions and together could deliver a cure.",
+    "industry": "Healthcare",
+    "tags": [
+      "Gene Therapy",
+      "CRISPR",
+      "Biotechnology"
+    ],
+    "team_size": 2,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1740166772,
+    "yc_url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+    "site_text": "uncommon therapeutics 0 Skip to Content uncommon therapeutics Open Menu Close Menu uncommon therapeutics Open Menu Close Menu Welcome to the un Common Era (0 u CE). Using the latest technologies to efficiently build drugs that target the underlying cause of rare un common diseases First indication: Rett Syndrome Neurodevelopmental monogenetic disease that impacts 1 in 10,000 girls Our un common approach Deep domain and motivated disease experts that truly understand disease from mechanism to patients. We efficiently validate the best modalities in the disease models we know will translate to patient. Then drive it to the clinic with focused capital to see impact on first patients. Our deep disease expertise and uncommon approach has unlocked multiple therapeutics that will improve patient lives and in combination could deliver a cure. \u00a9 2025 uncommon therapeutics noah@uncommontherapeutics.com Policies",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Noah Auerhahn",
+        "title": "Founder/CEO",
+        "bio": "Serial Entrepreneur Building Therapies and New Biz Models for Rare Disease",
+        "linkedin_url": "https://www.linkedin.com/in/noahauerhahn/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Ryan Lim",
+        "title": "Founder",
+        "bio": "Biotech entrepreneur and biomedical scientist specializing in modeling neurological disorders using stem cells, in vivo models, and computational biology to drive breakthroughs in neurological diseases",
+        "linkedin_url": "https://www.linkedin.com/in/ryanlimphd",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "\ud83d\udc8a\ud83e\udde0\ud83e\uddec Uncommon Therapeutics - A Disease Focused Biotech\n### **TL;DR**\n\nNoah, an experienced tech entrepreneur, was directly impacted by a severe genetic disease when his daughter was diagnosed with Rett Syndrome, a disease that afflicts 1 in 10,000 girls. Using an innovative polytherapy strategy, we\u2019ve successfully improved her quality of life, and have designed **new therapeutics that each could be worth billions and together could deliver a cure.**\n\nOur _uncommon_ approach to biotech includes deep respect for the complexities of biology and disease, but belief that **many of the orthodoxies of biotech can be challenged by ideas from tech**.\n\n### **Why Now?**\n\n**AI is unlocking every field and biotech is no different.** However in bio the value will not go to the platform builders, but the users of the tools and the drug assets they create. Today it is easier and cheaper than ever to build better drugs. \n\nMeanwhile, biotech is no longer a closed system. So many of the core modality IP (mAbs, ASOs, mRNA, Car-T, CRISPR, etc) have expired or will expire by the time a drug comes to market. There are mature CROs for every stage of drug development from screening to running studies. And there are experts available to consult who have built at the platform companies that spent billions refining these tools.\n\nAt Uncommon we believe now is the best time ever to build a disease focused biotech. **So while Biotech may not get the first 1 person billion dollar company, in this AI-driven open source system, it may deliver the first 2 person one.**\n\n### **Why Us?**\n\n_\u201cStart companies to solve personal problems\u201d \u2014_ Michael Seibel\n\nImagine while you are building your high flying tech company, your 18 month old daughter starts to lose the ability to walk, speak, use her hands, and will soon develop a cascade of maladies (seizures, breath holding and hyper ventilation, scoliosis and on) \u2013 this is Rett Syndrome. Over the months that followed **Noah dedicated himself to this problem, reading over 300 papers in the first 9 months alone, speaking with every expert until he became one**. We identified multiple repurposed drugs, not commonly used for Rett, that while not curative could immediately push back against the skill loss and successfully give her a higher quality of life. Today, **Ellie is 5 and in the top 1% of people with Rett**. While still limited, she is happy, walking around, not in pain, without seizures, and is learning to read and communicate with her eye gaze de",
+    "job_titles": [],
+    "hn": {
+      "domain": "uncommontherapeutics.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://uncommontherapeutics.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Exin Therapeutics",
+    "slug": "exin-therapeutics",
+    "website": "https://www.exintherapeutics.com/",
+    "one_liner": "AI drug discovery platform for neurotherapeutics",
+    "description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on\u00a0epilepsies associated with autism and Parkinson\u2019s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity.\u00a0Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists\u00a0supported by an experienced SAB from Harvard, Science Corp (ex-Neuralink), EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF,\u00a0we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding.\u00a0\r\n",
+    "industry": "Healthcare",
+    "tags": [
+      "Neurotechnology",
+      "Biotech",
+      "Therapeutics"
+    ],
+    "team_size": 9,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1736839155,
+    "yc_url": "https://www.ycombinator.com/companies/exin-therapeutics",
+    "site_text": "Exin Therapeutics Search this site Embedded Files Skip to main content Skip to navigation Exin Therapeutics Science Team News Blog Careers Contact us Exin Therapeutics Science Team News Blog Careers Contact us More Science Team News Blog Careers Contact us An AI discovery platform for neurotherapeutics We are developing a target discovery platform for neurotherapeutics targeting neural circuits - across disorders. Multimodal AI predicts drug candidate's potential on multiple neural disorders simultaneously. Agnostic to therapeutic modality. Enabling the discovery of next-generation neurotherapeutics. Multi-target effect. Highly localized. Agnostic to genetic background. Exin Therapeutics, Inc \u00a9 2025 Contact us founders@exintherapeutics.com Report abuse Page details Page updated Report abuse",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Gabriel Ocana Santero",
+        "title": "Founder/CEO",
+        "bio": "Neuroscientist with a background in biochemistry and research on gene therapy, pancreatic cancer, and muscle physiology at institutions in Boston, Vienna, and Stockholm. Earned MSc in Neuroscience and PhD in Pharmacology at Oxford Uni, focusing on neurodevelopment and the effects of SSRI anti-depressants on early patterns of neural activity. Used neuroAI models at the Gatsby Unit (UCL) to study serotonin\u2019s role in cognition. Currently developing gene therapies for neurological conditions.",
+        "linkedin_url": "https://www.linkedin.com/in/gabriel-ocana-santero-85b41819a",
+        "twitter_url": "https://x.com/OcanaSantero"
+      },
+      {
+        "name": "Marko Tvrdic",
+        "title": "Founder/COO",
+        "bio": "Cofounder & COO @ Exin Therapeutics. Worked across analysis levels in bio \u2013 from molecules to complex behavior. Previously, I worked on retinal and circadian rhythm disorders, neurodevelopment, and systems and comp neuro, with a small stint in venture. Oxford MSc + PhD (on leave to build Exin).",
+        "linkedin_url": "https://www.linkedin.com/in/marko-tvrdic/",
+        "twitter_url": "https://twitter.com/markotvrdic"
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Exin Therapeutics: An AI discovery platform for neurotherapeutics\n[Exin Therapeutics](https://www.exintherapeutics.com/) uses AI and high-throughput mouse studies to develop therapies for people suffering from neurological and neuropsychiatric disorders. We are tackling conditions like epilepsy, debilitating symptoms of autism spectrum disorder (ASD), and Parkinson\u2019s disease by focusing on the neural circuitry of the brain.\n\n# **Why is this important?**\n\nMillions of people around the world suffer from neurological disorders. These disorders arise from imbalances in brain activity. Think of it like an orchestra where some instruments are playing too loud while others are too quiet. This \u201cbad music\u201d / neural imbalance\u2014what we call excitatory/inhibitory (E/I) imbalance\u2014is the root cause of many symptoms in these disorders. For example, in epilepsy, overactive circuits lead to seizures, while in ASD, it can cause sensory hypersensitivities - where individuals feel overwhelmed by normal sounds, lights, or touch that most people wouldn't even notice. These dysregulations in neural circuits impact how the brain processes information and responds to the world, leading to the debilitating symptoms we see in these disorders.\n\n# **Our solution**\n\nWe\u2019re taking a circuit-level approach to treating brain disorders. Instead of trying to restore missing genes, we\u2019re supplementing already existing genes that we know will be directly changing the neural activity in the brain - in the direction that we want and independently of the genetic background.\n\n![uploaded image](/media/?type=post&id=86986&key=user_uploads/89898/4181e602-6279-4611-9af3-73b0ccfca768)\n\nWe are also working on a multimodal AI model to streamline our preclinical R&D. Why? Well, because developing drugs for the brain is really tough. Every candidate needs to be tested for its ability to modulate circuits, and doing that through a traditional drug development preclinical pathway is a slow process.\\\n\\\nBecause of that, we use ML to analyze high-density multimodal data sets and prioritize which drugs are worth testing further. We use neural activity, behavior, and transcriptomics to train multimodal AI models that identify the drivers of the disease not observable by conventional analytical methods.\n\n![uploaded image](/media/?type=post&id=86986&key=user_uploads/89898/b1ad1c24-a513-4633-83f6-58378d1cb5d8)\n\nThen, we use these models to (1) predict the potential of our therapies to treat particular indications and",
+    "job_titles": [],
+    "hn": {
+      "domain": "exintherapeutics.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.exintherapeutics.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Vocality Health",
+    "slug": "vocality-health",
+    "website": "https://www.vocalityhealth.com",
+    "one_liner": "Voice AI for medical language translation",
+    "description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators\u2014mostly through outdated call centers\u2014hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
+    "industry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare",
+      "Health & Wellness"
+    ],
+    "team_size": 2,
+    "year_founded": 2025,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1740652526,
+    "yc_url": "https://www.ycombinator.com/companies/vocality-health",
+    "site_text": "Vocality Health - AI Voice Solutions for Healthcare",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Brogan McPartland",
+        "title": "Founder/CEO",
+        "bio": "Brogan is the co-founder and CEO of Vocality Health. Previously, he co-founded Fulltrack AI, a viral computer vision sports app, with Vivek. He was the CTO overseeing the app reaching 4 million downloads and becoming the #1 sports app in India, surpassing the Olympics app (during the Olympics). He scaled Fulltrack to mid-six-figure MAUs and holds three patents. He studied computer science at Harvard and speaks fluent Hindi.",
+        "linkedin_url": "https://www.linkedin.com/in/brogan-mcpartland-05830031a/",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Vocality Health: AI-powered medical interpretation for hospitals\nHey everyone [\ud83d\udc4b](https://emojipedia.org/waving-hand)\\\nWe\u2019re [Brogan](https://www.linkedin.com/in/brogan-mcpartland-05830031a/) and [Vivek](https://www.linkedin.com/in/vivek-jayaram/), the cofounders of [Vocality Health](https://www.vocalityhealth.com).\n\n**TL;DR**: Hospitals spend billions on medical language interpretation services every year. Despite the cost, patients still face language barriers in healthcare. Vocality Health is building the most accurate and secure AI medical language interpretation system. Unlike human interpreters, Vocality is instant, always available, and integrates directly into hospital workflows. Hospitals are already signing up.\\\n\\\n<https://youtu.be/_-uy7y-sCBY>\n\n---\n\n## The Problem \u274c\n\nHospitals struggle to communicate with linguistically diverse patients. Current solutions like human interpreters, phone services, or ad hoc translation by family members are slow, expensive, and often unavailable when needed most. Miscommunication leads to worse outcomes, longer hospital stays, and nearly doubles the cost of care.\n\n---\n\n## Our Solution \u2705\n\nVocality Health is an AI-powered interpretation platform for hospitals that provides real-time, accurate, and clinically safe translation for doctors and patients.\n\nUnlike existing services:\n\n* **\ud83c\udfe5 Instant & Always On** \u2013 No need to wait for an interpreter.\n* **\ud83e\uddd1\u200d\u2695\ufe0f Built for Hospitals** \u2013 Designed for clinical use, not general-purpose translation. Compliant and built to preserve patient privacy.\n* **\ud83d\udcf2 Fully Integrated** \u2013 Works with existing systems and hospital workflows.\n\nHospitals using Vocality get faster patient care, lower costs, and better outcomes.\n\n---\n\n## The Team \ud83e\udd1d\n\nVivek and I met as undergrads on the Harvard Cricket Club and later built [Fulltrack AI](https://www.linkedin.com/company/fulltrack-ai), a viral cricket app that became the #1 sports app in India, outranking the Olympics app (during the Olympics).\n\nWe\u2019re now teaming up again to solve a problem that is deeply personal to both of us. After being denied coverage in the U.S., I spent years navigating international healthcare, experiencing firsthand how language barriers impact care and outcomes. Vivek, a PhD in speech generative models, has spent years developing AI to improve real-time communication. This problem is at the intersection of our experiences and expertise, and we couldn\u2019t be more excited to be tackling it.\n\n![uploaded image](/media/?type=post&id=8",
+    "job_titles": [],
+    "hn": {
+      "domain": "vocalityhealth.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.vocalityhealth.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/vocality-health",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Toothy AI",
+    "slug": "toothy-ai",
+    "website": "https://www.toothy.ai/",
+    "one_liner": "AI for insurance verification & billing at dental clinics",
+    "description": "We\u2019re Toothy.ai.  We\u2019re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow\u2014including making insurance calls with voice AI\u2014saving clinics time, reducing costs, and ensuring faster reimbursements.",
+    "industry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Dental",
+      "Conversational AI"
+    ],
+    "team_size": 15,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1736273040,
+    "yc_url": "https://www.ycombinator.com/companies/toothy-ai",
+    "site_text": "Toothy AI - AI-Powered Dental Insurance Verification & Billing",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Johnny Chen",
+        "title": "Founder/CEO",
+        "bio": "2nd time founder now automating back office functions for dental clinics. Built one of the first AI B2B cold email solutions (backed by SoftBank) to $1m in ARR using GPT-J. Background in full stack engineering, operations management, and B2B marketing. Previously worked at Ford Motor\u2019s R&D lab as a software engineer.",
+        "linkedin_url": "https://www.linkedin.com/in/johnnychen54/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Matt Kerrigan",
+        "title": "Founder/CTO",
+        "bio": "2nd time technical founder at Toothy AI, where I'm working on automating back office operations for dental clinics. First journey ended in Salezilla, a LLM-based cold email campaign tool that launched before ChatGPT, it is still operating today. Before that I was in a ML role at a startup that was acquired by Nordstrom.",
+        "linkedin_url": "https://www.linkedin.com/in/mkerrig/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Tejas Konduru",
+        "title": "Founder/CRO",
+        "bio": "Helping build the largest healthcare AI company!",
+        "linkedin_url": "https://www.linkedin.com/in/tejas-konduru",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "\ud83e\uddb7 Toothy.ai: Automating insurance verification & claims for dental clinics\n### **Tl;dr**\n\n* [Toothy.ai](http://Toothy.ai) is building HIPAA-compliant AI agents that automate all the back office functions in a dental practice. Our first two agents automate the entire revenue cycle, so dental practices can sit back and watch the insurance payments roll in [\ud83d\ude0e](https://emojipedia.org/smiling-face-with-sunglasses)\n* Our AI handles everything from insurance verification, claim creation, claim submission, denial correction, claim resubmission, and payment posting.\n* We're already seeing early customers cutting their back office teams by 50-75% within weeks of implementing Toothy.\n\n### **Launch video**\n\n<https://youtu.be/y5VQe82PdGI>\n\n### **\u274c The problem**\n\n* Dental practices **waste 800 million hours** and **$13.2 billion** per year on time-consuming and repetitive back-office tasks. On top of that, dental practices are facing an unprecedented labor shortage and **90**% of them find it extremely or very challenging to fill vacant positions.\n* The largest, most time-consuming, and error-prone part of a dental practice\u2019s back office is revenue cycle management (RCM)\u2014the process of getting paid. **80%** of dental practices face financial concerns due to RCM challenges. Tasks like insurance verification, claim submission, and payment posting are labor-intensive and prone to errors. Frequent policy changes make it difficult to verify coverage, leading to billing discrepancies and delayed payments.\n\n### **\u2705 The solution**\n\n![uploaded image](/media/?type=post&id=87923&key=user_uploads/2386492/97bc335c-1d5b-4c4a-ab85-e45f800ca7b2)\n\n* Toothy\u2019s AI agents automate the entire RCM process, **saving practices 160+ hours per month and increasing revenue by 5-10%**. Our AI agents handle everything from insurance verification to payment posting, eliminating the largest source of administrative burden.\n* How do our agents work?\n  1. **\u260e\ufe0f Verify Insurance** \u2013 Calls payers and check online portals to confirm coverage.\n  2. \ud83d\udcdd **Input data** - Fills out and uploads a comprehensive breakdown form with 50+ codes into your practice management system.\n  3. \ud83d\udcec **Create and submit claims** - Accesses imaging software, clinical remarks, and plan details to create & submit comprehensive claims.\n  4. \ud83d\udee0\ufe0f **Correct denials** - Understands denial reasons, updates the claim, and resubmits to payers. Can even draft appeal letters.\n  5. **\ud83d\udcb0 Payment posting** - Collects, scans, and deposits insurance ",
+    "job_titles": [
+      "Founding Lead Engineer"
+    ],
+    "hn": {
+      "domain": "toothy.ai",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.toothy.ai/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "3 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/toothy-ai",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Amby Health",
+    "slug": "amby-health",
+    "website": "https://tryamby.com",
+    "one_liner": "The health coach that texts you first",
+    "description": "Your wearable tells you what happened. Amby texts you what to do next, checks in, and adjusts when life gets in the way.",
+    "industry": "Healthcare",
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Health & Wellness"
+    ],
+    "team_size": 2,
+    "year_founded": 2025,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1738458555,
+    "yc_url": "https://www.ycombinator.com/companies/amby-health",
+    "site_text": "Amby: the proactive health coach that texts you first ALT 0 FT CLIMBING Amby Texts first How it works The apps Instruments Trust Login Text Amby Invite-only pilot, now boarding The coach that texts you first. Amby reads your training from Strava, Garmin, and Apple Health, then checks in at the moments that matter. Text Amby See a day with Amby Amby TODAY 6:42 AM HRV 62 ms +4 RECOVERY 82 Works with Strava Garmin Apple Health Most coaching apps wait. Amby texts first. No dashboard to remember to open, no check-in forms to fill out. Amby watches your training and starts the conversation. You just text back. One day with Amby 6:42 AM Morning check-in 6:42 AM Legs feeling ready for tonight's intervals? Sleep and HRV say yes. 11:30 AM Fueling nudge 11:30 AM Session at 6. Start topping up carbs now, not at 5:30. 2:15 PM Early warning 2:15 PM Resting HR ran high yesterday. Say the word and we go easier tonight. 6:54 PM It noticed 6:54 PM Strava just synced. Negative split, nice. Want me to log how it felt and mark today complete? Set up once. Coached every day. Connect your data Link Strava, Garmin, or Apple Health in a tap. Amby reads the training, sleep, and recovery you already track. No new wearable to buy. Get a coach in your texts Amby texts you a plan, answers your questions, and checks in on its own, over the messages app you already use all day. Open the app when you want Your plan, activity history, and recovery trends live in the iOS and web apps. Optional: the coaching comes to you. One coach, three surfaces Coaching in your texts. Everything else, one tap away. The same coach, the same plan, everywhere you look. Home base iMessage / SMS Where the coaching happens. Ask anything, log sessions, get check-ins. Every change is confirmed with you first. Tempo tomorrow looks risky. Sleep was short two nights running. Swap in an easy 40 minutes? yes, swap it Proactive check-ins Ask Amby anything Log sessions by text iOS Athlete app Today's session, your activity history, and your recovery trends in your pocket. Today's plan & week progress Activity history & detail Trends: HRV, sleep & volume Web Web app The same training home on a big screen, for when you want to spread the map out. In private beta. Home, Plan & Activities Private beta access Manage your integrations Know when to push, and when to rest. Recovery, training load, and consistency on one panel, so hard days land when your body is ready for them. Recovery Low 0 / 100 Sleep, HRV, and resting heart rate, tracked every day. 7h 48m Sleep 62 ms HRV 48 bpm Rest HR Training load Acute vs. chronic load safe ramp chronic acute Acute load tracking just above your base. Acute (7-day) load against chronic (28-day) fitness. The shaded band is the safe ramp, so it's easy to see when you're drifting above it. Consistency Show up. Watch it stack. Current streak 11 weeks An 11-week streak. Consistency is the engine. less more No autopilot. You approve everything. Amby works from your real data and remembers your history, but nothing is saved, shared, or changed until you say so. Amby is in active development. Some capabilities roll out gradually during the pilot and may be limited while we onboard you. It asks before anything changes Logging a session, marking it complete, sharing: Amby checks with you first, every time. Grounded in your own data Answers come from your actual activities, trends, and notes, not generic advice from the internet. Proactive is opt-in Unprompted texts only start once you turn them on, and you can turn each coaching moment off anytime. Now boarding Ready to be ambitious with your health? Text Amby to begin the secure setup flow and put personalized coaching one message away. Text Amby +1 (773) 766-3629 Your private setup link arrives by text and expires for your security. Amby Amby, short for ambitious. Privacy Terms \u00a9 2026 AMBY HEALTH",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Yos Wagenmans",
+        "title": "Founder/CEO",
+        "bio": "Co-founder and CEO of Amby Health. Dropped out of MIT CS M.Eng.\nPreviously led ML research at MIT CSAIL, worked on AI at Meta, and developed pre-hospital software at ALLM.",
+        "linkedin_url": "https://www.linkedin.com/in/yosw/",
+        "twitter_url": "https://x.com/yos_w/"
+      },
+      {
+        "name": "Timmy Dang",
+        "title": "Founder/CTO",
+        "bio": "Co-founder & CTO @ Amby Health. Software @ Amazon & Bloomberg. AI + Data Science @ OM1 (healthcare analytics).",
+        "linkedin_url": "https://www.linkedin.com/in/timmydang27/",
+        "twitter_url": "https://x.com/timdangg"
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Amby Health - AI Copilot for Ambulance Agencies (EMS)\nWe\u2019re Yos and Timmy \u2013 co-founders of [Amby Health](https://tryamby.com) \ud83d\udc4b\n\n# **TL;DR**\n\nAmbulance agencies (EMS) waste time and lose revenue due to manual quality reviews and billing, leading to missed errors, under-documented care, and delayed reimbursements. Amby Health automates the entire process, ensuring 100% of patient reports (PCRs) are reviewed in real-time, helping agencies increase revenue, reduce workload, and improve patient care.\n\nKnow any **EMS Directors/CEOs or Fire Department Captains**? Please introduce us!\u00a0\n\nEmail: [contact@amby.health](mailto:contact@amby.health)\n\n# **The Team**\n\n**Yos (CEO):**\u00a0 MIT dropout, ex-Meta engineer, ML researcher at MIT CSAIL, and former engineer at Allm, a company providing pre-hospital emergency care. He saw firsthand how outdated, manual EMS documentation and billing slow down providers and reduce revenue.\n\n**Timmy (CTO):** \u2013 MIT dropout, ex-Amazon/Bloomberg engineer, AI researcher at MIT Media Lab, and healthcare data scientist at OM1. He saw how valuable insights are buried in unstructured medical records, making it hard for providers to act on critical data.\n\n![uploaded image](/media/?type=post&id=87974&key=user_uploads/541108/0d47eceb-120d-4b66-acd1-d3f1a67db38a)\n\n# **The Problem**\n\nEMS quality reviews and billing are still manual and inefficient, leading to:\n\n* **Missed Errors & Compliance Risks** \u2013 Incomplete patient reports (PCRs) slip through, leading to under-documented care, protocol violations, and legal exposure.\n* **Lost Revenue & Billing Delays** \u2013 EMS teams spend hours fixing reports, chasing down medics, and resubmitting claims. Agencies miss out on millions due to denials, coding errors, and charge capture gaps.\n* **Slow, Labor-Intensive Process** \u2013 Quality review and billing teams are bogged down by manual chart reviews and corrections, delaying reimbursements and patient care improvements.\n\n\u00a0\n\n# **Our Solution: AI-Powered EMS Quality Review & Billing**\n\n\u2705 **Automated Quality Audits** \u2013 Identifies errors, missing documentation, and compliance risks instantly.\\\n\u2705 **Real-Time Medic Feedback** \u2013 Helps providers improve documentation and protocol adherence with instant insights.\\\n\u2705 **Billing Optimization** \u2013 Ensures complete PCRs, flags missed charges and reduces denials to speed up payments.\n\nThe result? EMS agencies recover lost revenue, cut review times, and improve patient care\u2014while reducing manual work.\u00a0\n\nOne fire department **increas",
+    "job_titles": [],
+    "hn": {
+      "domain": "tryamby.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://tryamby.com",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/amby-health",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "HealthKey",
+    "slug": "healthkey",
+    "website": "https://gethealthkey.com/",
+    "one_liner": "AI-powered Patient Identification for Clinical Trials",
+    "description": "HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster.\r\n\r\nBig Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.",
+    "industry": "Healthcare",
+    "tags": [],
+    "team_size": 10,
+    "year_founded": 2025,
+    "location": "Austin, TX, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1737252261,
+    "yc_url": "https://www.ycombinator.com/companies/healthkey",
+    "site_text": "Boost Clinical Trial Enrollment - HealthKey How It Works Case Studies Pricing Schedule Demo Login Menu AI-Powered Patient Identification for Clinical Trial Teams Integrate with your EHR and get emailed eligible patients for your clinical trials every day \u2713 Boost Enrollment \u2713 Slash Screen Failures \u2713 Maximize Revenue Find out how Finding Eligible Patients is the worst Where's Waldo? game ever... There's a new cheat code: Let HealthKey Prescreen Patients 1. Connect We connect to your EHR to analyze patients\u2019 data in a HIPAA compliant way. 2. Prescreen We encode your trials' eligibility criteria and scan your EHR for candidates with AI. 3. Review We present you matches with evidence from patients' records so your research team can qualify them. See for yourself Qualify More Patients, Faster Double Your Patient Matches in Half the Time HealthKey\u2019s AI replaces manual chart reviews\u2014processing thousands of records in minutes. Simply upload your inclusion & exclusion criteria, and our platform delivers a ready-to-enroll list straight to your team. Schedule a Demo Get Started in 1-week Works with your system: Security-first. HIPAA Compliant. Get started Offer Valid Thru July 31, 2026 $0 upfront costs (risk free) We charge Success Fees per patient. It's simple, and scales with your sites, studies, and subjects. It's a no-brainer: we only get paid if you're successful! + FREE Implementation ($15,000 value) + FREE Protocol Setup for 5 Trials ($5,000 value) + FREE Premium Support ($2,500 value) Get started (Limited to 20 New Sites This Quarter) See Qualified Patients in Your Dashboard Within Days Let HealthKey Work for You Confirm: I want to be contacted regarding HealthKey Submit Want to join us on this mission? See our Careers page here . Cancel How It Works Case Studies Pricing Schedule Demo Login How It Works Case Studies Pricing Schedule Demo Login Menu See Qualified Patients in Your Dashboard Within Days Let HealthKey Work for You Confirm: I want to be contacted regarding HealthKey Submit Want to join us on this mission? See our Careers page here . How It Works Case Studies Pricing Schedule Demo Login Menu Subscribed Thank you We'll be in touch soon. Continue",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Josh Sabol",
+        "title": "Founder/CEO",
+        "bio": "Founder/CEO of HealthKey. Previously a Product Manager at AWS, helping automate the ~$20B supply chain at AWS. I was the 1st PM at Plate IQ (S15), a B2B accounting & payments tool, which 10x'ed during my tenure and recently raised a $160M Series B from FTV Capital. \ud83c\udf10 https://sabol.io/",
+        "linkedin_url": "https://linkedin.com/in/joshsabol",
+        "twitter_url": "https://x.com/JoshSabol"
+      }
+    ],
+    "github_url": "",
+    "launch_text": "HealthKey \u2014 AI-Powered Patient Identification for Clinical Trials\nHi everyone, [Josh Sabol](https://www.linkedin.com/in/joshsabol/) here with [**HealthKey**](https://gethealthkey.com/) \ud83d\udc4b\n\n### **TL;DR**\n\nHealthKey helps doctors offices generate more revenue by identifying patients who are eligible for clinical trials, and matches at-risk patients with cutting-edge treatments. Big Pharma pays _a lot_ of money to clinics for each patient they enroll, but _finding_ patients who qualify is an entirely manual process today. We use AI to prescreen doctors\u2019 existing patients against Clinical Trials\u2019 eligibility criteria, making enrollment fast and easy.\n\nAre you a **Clinical Operations Leader** or a **Principal Investigator**? Book a **15-min demo** here \ud83d\udc49 <https://cal.com/healthkey/30-min-yc-launch>\n\n<https://www.youtube.com/watch?v=Bm764eA6dhw>\n\n### **The Problem**\n\nPharma/Biotech/Medical Device companies (a.k.a. Sponsors) rely on doctors\u2019 offices (a.k.a. Research Sites) to find patients for clinical trials.\u00a0**Each enrolled patient can bring a site anywhere from $20,000 to $100,000**. The problem is finding qualified patients.\u00a0**Doctors have to manually search through dense medical records**\u00a0looking for extremely specific criteria, for\u00a0[**example**](https://clinicaltrials.gov/study/NCT05683691#participation-criteria): \u201cProstate cancer in T2c stage, 20-80 cc in size determined via MRI.\u201d\u00a0**Existing search tools rely on simple data fields**, so they can\u2019t handle these nuanced requirements. As a result, doctors manually sift through lists of 1000 patients with Prostate cancer only to discover \\~5 patients match all eligibility criteria. The result is\u00a0**wasted time, missed revenue, and fewer patients**\u00a0getting access to potentially life-changing trials.\n\n### **The Solution**\n\nOur solution works in two steps:\n\n**1. AI-Driven Prescreening**\n\nWe connect with clinics\u2019 EHR system\\* directly to pull all medical records, including faxed PDFs. Then we use AI to compare each patient\u2019s medical history against a trial\u2019s specific eligibility criteria. For example: prostate cancer\u2019s status, stage, size, and impression source. We repeat this for every criterion, across all trials, creating a carefully vetted list of potential candidates ranked by how likely they are to qualify.\n\n**2. Doctor Review**\n\nDoctors log in to our dashboard to view the prescreened patients. For each candidate, HealthKey highlights the key pieces of evidence\u2014such as MRI details or encounter notes\u2014so doctors",
+    "job_titles": [],
+    "hn": {
+      "domain": "gethealthkey.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://gethealthkey.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "1 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/healthkey",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "10x",
+    "slug": "10x",
+    "website": "https://www.10xdental.com/",
+    "one_liner": "AI Sales Teams for Dental Practices",
+    "description": "10x helps dental practices turn missed revenue opportunities into booked appointments. We connect to a practice\u2019s patient database, identify overdue recalls, lapsed patients, and unscheduled treatment plans, then use AI calling and texting to bring those patients back into the chair.",
+    "industry": "Healthcare",
+    "tags": [],
+    "team_size": 2,
+    "year_founded": 2025,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1736138044,
+    "yc_url": "https://www.ycombinator.com/companies/10x",
+    "site_text": "AI Dental Patient Recall | 10x Dental 10x Dental AI Recall Case Studies Blog Features Pricing Sign in Request a Free Demo Menu Demo AI Recall Case Studies Blog Features Pricing Sign in Dental AI that runs patient recall Daily recall calls working your hygiene recall list consistently, not just when the front desk has time Live booking confirmed appointments write straight into your PMS from real availability Phone and text two-way conversations that keep going until the cleaning is on the calendar Request a Free Demo \u25b6 Hear from our customers Backed by Y Combinator Listen to a real AI call Hear 10x book a live appointment 10x \u25b8 Hi, this is the team at your dental office calling about your overdue cleaning. I'd love to get you back on the schedule. What 10x does AI revenue recovery team for your practice. Outbound hygiene recall, handled around the clock, so your front desk can focus on the patients in the room. See it on your schedule Hygiene Recall Win back hygiene patients automatically. 10x works your recall list every day so no cleaning slips through. Live Booking When a patient is ready, 10x books from live availability and writes the appointment straight into your schedule. Phone and Text Outreach Two-way conversations by call and text, every day, so recall does not wait on a free moment at the front desk. Real patient conversations A real back-and-forth that books the chair. 10x Modern Dentistry AI coordinator Live The patient picks the channel. Text or call: 10x handles both, 24/7, and keeps the thread going until it's on the calendar. It handles the hard parts. Objections, scheduling around real availability, insurance, and prep, all answered like your best front-desk hire. It books on the spot. Confirmed appointments write straight into your schedule, with no callback tag and no manual entry. By the numbers 10x books 5.3\u00d7 more of your overdue patients. A busy front desk converts about 3% of an overdue recall list. 10x averages 16%, and every booking is production that was already sitting in your database. Human front desk 3% 10x conversational AI 0 % 5.3\u00d7 higher than a human front desk Why this is different Your reminder tools nudge. 10x books patients into the schedule. Legacy reminder / CRM tools Sends reminders One-way blast Reminds about appointments you already have Creates a task for your staff Transactional, one-time, patients slip away 10x conversational AI Starts the conversation Two-way dialogue, by text or call Finds the patients who need a visit Completes the booking itself Conversational, 24/7, follows up until booked A reminder pings. 10x recovers the patient. Built for the front office Every number your office manager needs, updated daily. Last synced: today, 7:29 AM Next sync ~22h Recall Escalations 0 Recalled patients +66 last 30 days $ 0 Production recovered +$15,600 last 30 days 0 Came in +55 last 30 days 0 Contacted patients 0.0 % Conversion rate 5.3\u00d7 higher than humans Recalls, production, and conversion at a glance Drill into any patient or conversation Export every appointment to CSV Patient conversations in one place No new busywork, it runs in the background Synced from your PMS Proof Real practices. Real production. In the first month. +$33K additional production in one month Modern Dentistry San Diego , CA View full case study 41 patients scheduled in one month Woodbridge Comfort Dental Care Woodbridge , VA View full case study +$31K additional production in one month Gemini Dental Doral Miami , FL View full case study 38 patients scheduled in one month Daniel Barry DDS San Francisco , CA View full case study 66 patients scheduled in one month United Dental Care Culver City , CA View full case study +125 patients scheduled in 30 days Dental Masters Downey Downey , CA View full case study +$11K additional production in one month Smile Max 365 Phoenix , AZ View full case study 41 patients recalled in one month Fresh Dental SD San Diego , CA View full case study 83 patients recalled in one month Family Dental Station Glendale , AZ View full case study See all case studies Testimonials Real dentists. Real results. \u201c Out of every technology we've integrated into our practice, 10x has produced the largest ROI by far. Dr. Amir Mojaver Modern Dentistry, San Diego, CA Read case study \u201c With 10x AI I can see the results for myself. In the last 30 days I produced $10K from the AI tool alone. Dr. Mark Espinoza Smile Max 365, Phoenix, AZ Read case study \u201c The numbers say it all. Nothing in the last 30 years of dentistry has brought a return like 10x. Dr. Abbas Eftekhari United Dental Care, Culver City, CA Read case study \u201c The best offices in the world will miss a return cleaning. It's comforting to have 10x backing us up. Dr. Ryan Arthurs Family Dental Station, Glendale, AZ Read case study Integrates with your PMS + many more Pricing Service Monthly price Coverage Hygiene Recall $970 / month Daily outreach to patients who are ready for their next cleaning, with live booking into your PMS. Discounts are available for groups, multi-location practices, and buying organizations. Book a conversation FAQ Questions, answered. How secure is 10x? 10x is built for healthcare. All patient data is encrypted in transit and at rest, access is tightly scoped, and we sign a Business Associate Agreement (BAA) to support your HIPAA obligations. How does it integrate with our practice management system? 10x connects directly to your PMS, including Dentrix, Eaglesoft, Open Dental and others. It reads your recall list and writes confirmed appointments back into your schedule. Setup takes days, not months. The patients are already there. Let 10x book them. See a live AI call and a plan sized to your practice. Most offices are up and running in days. Request a Free Demo No commitment \u00b7 15-minute setup call 10x Dental AI agents that run hygiene recall for dental practices. 350 Townsend St, Suite 303 San Francisco, CA 94107 Product AI Recall Features Pricing Case Studies Request a Demo C",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Max Bohun",
+        "title": "Founder/CEO",
+        "bio": "Co-founder @ 10x - AI Recall Agents that make dental practices a LOT more money",
+        "linkedin_url": "https://www.linkedin.com/in/maxbohun/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Aman Garg",
+        "title": "Founder/CTO",
+        "bio": "Co-founder of GradeWiz - AI Teaching Assistant that grades student work.\n\nCS at Cornell.",
+        "linkedin_url": "https://www.linkedin.com/in/amanmadhavgarg/",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "10x: AI sales teams for dental practices\nIt\u2019s 2026 and dentists STILL aren\u2019t making enough money.\n\n<https://youtu.be/DAFMj8AAg2E>\n\nMillions of dollars in opportunities are already in their database\u2026 and they aren\u2019t turning into appointments.\n\nPractices spend thousands to acquire patients\n\nthen forget to follow up.\n\n10x (YC W25) is a revenue engine for dental practices.\n\nWe call patients who are overdue for checkups and follow up on treatment plans to help practices produce as much as possible.\n\nFor a practice in Miami, we\u2019re generating &gt;$30k/month in incremental revenue.\n\nFor a practice in LA, we brought back 94 lapsed patients in one month.\n\nAlready live in the largest and second-largest privately owned dental groups in Chicago,\n\none of the largest in Sacramento,\n\nand dozens of practices covering every continental U.S. timezone.\n\nIf you run a dental practice and you\u2019re not using 10x, you\u2019re leaving money on the table. [Schedule a demo.](https://calendly.com/aman-gradewiz/30min?month=2026-04)\n\nP.S. We\u2019re actively HIRING a founding engineer and a founding GTM. Reach out to [Max Bohun](https://www.linkedin.com/in/maxbohun/?skipRedirect=true)!\n\n---\n\nGradeWiz: AI Teaching Assistant\n[GradeWiz](https://www.gradewiz.ai/marketing/index.html) is the AI teaching assistant for Ivy League courses that grades student work and gives them feedback.\\\n\\\n9 out of 10 Educators would rather lose a kidney than grade another assignment.\n\nStudents wait weeks to get generic feedback on their work that they don\u2019t even read.\n\nGradeWiz transforms the way courses are taught: now, a single TA does the work of 10, 10x faster. We have already graded over 30,000 submissions this year at massive universities like Penn State, Cornell, Hunter, Cal Poly, and Syracuse. Each submission gets detailed next-day feedback that educators don\u2019t have time to give.\n\nIf you\u2019re an educator or a decision maker, [join our waitlist.](https://www.gradewiz.ai/marketing/waitlist.html)\n\n[GradeWiz Launch Video](https://www.youtube.com/watch?v=hLtSfhU10P8)",
+    "job_titles": [
+      "\ud83e\uddb7 Founding Engineer at 10x Dental (YC W25)"
+    ],
+    "hn": {
+      "domain": "10xdental.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.10xdental.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/10x",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Mecha Health",
+    "slug": "mecha-health",
+    "website": "https://www.mecha-health.ai/",
+    "one_liner": "Foundation models to automate x-ray analysis for radiologists",
+    "description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it\u2019s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
+    "industry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Health Tech",
+      "Healthcare"
+    ],
+    "team_size": 4,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1737153298,
+    "yc_url": "https://www.ycombinator.com/companies/mecha-health",
+    "site_text": "Mecha Health mecha Models Research Company Dark We build foundation models for radiology. Medical images in. Complete reports out. Explore mecha Talk to a founder mecha Models Mecha XR Mecha CT Research 01 Qualitative case studies 02 Maps & misconceptions 03 Mecha Net v0.2 All Research archive Company Talk to a founder About LinkedIn X \u00a9 2026 Mecha Health YC W25 \u00b7 San Francisco",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Ahmed Abdulaal",
+        "title": "Founder/CEO",
+        "bio": "Medical doctor @Imperial, where I gained entry to the most competitive deanery in the country. Microsoft PhD scholar in machine learning @UCL - I have more than 20 peer reviewed publications in medicine, digital healthcare, and machine learning - including first author publications in top AI venues such as ICLR. 360+ citations on google scholar. Ex Research Scientist at the Center for Artificial Intelligence @AstraZeneca. Building the future of automated radiology @Mecha Health.",
+        "linkedin_url": "https://www.linkedin.com/in/ahmed-abdulaal-5b8b6a295/",
+        "twitter_url": "https://x.com/AAY1993"
+      },
+      {
+        "name": "Hugo Fry",
+        "title": "Founder",
+        "bio": "Mathematics (BA) and Physics (MSc) graduate from the University of Cambridge, ranking top 30 in the university. British Physics Olympiad participant, ranking in the top 11 in the UK. Former ML interpretability research scholar (MATS), where I was the first in the world to use Sparse Autoencoders on vision models. My research has been cited by Anthropic and Google DeepMind. Currently working on building state of the art radiology report generation AI in a way that is interpretable and safe.",
+        "linkedin_url": "https://www.linkedin.com/in/hugo-fry-825828271/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Ayodeji Ijishakin",
+        "title": "Founder",
+        "bio": "I am a Machine Learning & Medical Imaging PhD candidate from University College London (UCL). During my PhD I published work at tier-one Machine Learning venues (NeurIPS, ICML & ICLR), and was invited to present my work at international medical imaging conferences, Digitas, & Harvard Medical School. Before this startup I was poached by my Professors from UCL including the Head of Computer Science to be CEO for their spin-out. Currently building Radiology 3.0 by Automating reporting.",
+        "linkedin_url": "https://www.linkedin.com/in/ayodeji-ijishakin-b6208b1a9/",
+        "twitter_url": "https://x.com/AIjishakin"
+      },
+      {
+        "name": "Nina Monta\u00f1a Brown",
+        "title": "Founder/CTO",
+        "bio": "Solving the interpretive moment in radiology.\n\nex-ML Engineer across multiple medical device startups, with experience in FDA and CE marked medical devices, as well as LLM safety in healthcare. My PhD in Medical Imaging (UCL) focussed on surgical vision; my work has been patented, cited 100+ times, and published across the world's highest impact scientific venues (Nature, NeurIPS, ICLR).",
+        "linkedin_url": "https://www.linkedin.com/in/nina-monta%C3%B1a-brown-6aa24b133/",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Mecha Health - Vision-language foundation models, that scale healthcare.\nToday we\u2019re launching a new set of capabilities at Mecha: foundation models that interpret studies the way radiologists do, across anatomy, modality, views, and priors, while fitting into any workflow or software environment.\n\n\\\n<https://youtu.be/M6YMdM0I884>\n\n\\\nWhat\u2019s new is less about \u201cone more model\u201d, and more about a human-like feature set for real workflow:\n\n* Multi-anatomy interpretation\n* Multi-modality support\n* Multi-view reasoning with full clinical context\n* Prior-aware comparison: identifies clinically relevant change vs prior exams\n* Environment-agnostic delivery: a radiologist opens the study and finds a high-quality draft report already waiting in their template.\n\nThese new capabilities are designed to help frontier practices scale healthcare, without asking radiologists to relearn their workflow.\n\n### Our Ask\n\n* If you\u2019re evaluating next-generation reporting AI, or know a group that is, we\u2019d love to talk.\n\n**Please reach out directly at [ahmed@mecha-health.ai](mailto:ahmed@mecha-health.ai) - you can also check us out at** [**https://mecha-health.ai**](https://www.mecha-health.ai/)\n\n---\n\nMecha Health \ud83e\ude7b Trustworthy medical image reporting using AI\n**TLDR;** \\\nMecha Health helps radiologists save time and effort by producing draft reports of medical images using AI. \\\n\\\n**The Problem: Too Many Scans Not Enough Doctors.** \\\nDue to a shortage of experts, US radiologists have to read 100 - 250+ studies per day, and this means that 55% have reported high levels of burnout. Additionally, patients sometimes have to wait days to receive medical reports for their scans due to backlogs. At times, this can result in preventable patient harm. \\\n\\\n**Our Solution: Accurate & Interpretable Medical Image Analysis.** \\\nWe improve the reporting process by producing draft reports with AI and have invented new science to do this both accurately and safely. Our system can trace every finding to its visual source in the image and evidence each finding with examples from the training dataset. This allows for transparent reporting that doctors can trust.\n\n![uploaded image](/media/?type=post&id=87081&key=user_uploads/2272824/2dd6b41e-c6f1-46a8-b932-678f32885952)\n\n**Our Background: Frontier Scientific Expertise.** \\\nWe are leading researchers in machine learning and medical imaging having published in tier-one AI venues (NeurIPS, ICLR, ICML). [Nina](https://www.linkedin.com/in/nina-monta%C3%B1a-b",
+    "job_titles": [],
+    "hn": {
+      "domain": "mecha-health.ai",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://www.mecha-health.ai/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "4 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/mecha-health",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Harbera",
+    "slug": "harbera",
+    "website": "https://harbera.com/",
+    "one_liner": "AI Healthcare Provider Credentialing Software",
+    "description": "Harbera helps clinic keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and lost revenue caused by doctors falling out-of-network.",
+    "industry": "Healthcare",
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "team_size": 2,
+    "year_founded": 2025,
+    "location": "New York City, NY, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1739432197,
+    "yc_url": "https://www.ycombinator.com/companies/harbera",
+    "site_text": "Harbera \u2014 Begin revenue cycle automation with Harbera Solutions Product Pricing About FAQ Contact Book a demo AI-native fee schedule and credentialing automation Begin revenue cycle automation with Harbera Harbera Automate fee schedule work and credentialing workflows in one AI-native revenue cycle platform. Move from fee schedules and provider data to clean, billable operations faster. Book a demo See what it does Scroll The platform Two solutions. Six products that automate the work before revenue. Fee schedule automation and credentialing are supported by focused products for documents, payer enrollment, visibility and reporting, communications, rate intelligence, and delegated workflows. Every file, instantly understood Document Ingestion Credentialing documents are classified the moment they land, key fields are captured, expirations surface early, and missing items are flagged before a packet ever stalls. Auto-classify licenses, DEAs, malpractice, board certs, sanctions Field-level extraction with confidence scoring Predictive alerts before anything expires Applications ready immediately Payer Enrollment Application Prep Payer enrollment applications are prepared through agentic workflows that use current, validated provider data, so coordinators can review and complete forms without copying fields between PDFs. AI-drafted state and payer applications from current provider data One source of truth for every application field Every market, queue, and next step in view Visibility & Reporting Give teams one operating view for provider status, payer follow-up, market-based access, filters, reporting, and analytics across credentialing and payer workflows. Market, payer, provider, owner, and location-based filtering Role- and market-based access for distributed teams Reporting and analytics across credentialing, enrollment, and payer work Queues for stale follow-ups, missing items, and upcoming deadlines One inbox, every payer Centralized Communications Centralized messaging assembles credentialing packets, organizes payer follow-ups, and keeps the whole team aligned in one thread. Auto-assembled packets per payer requirements AI-drafted follow-ups with threaded history per provider Live payer follow-up workspace for the whole team Uplift opportunities surfaced Fee Schedule Automation Fee schedules are extracted, normalized into code-level rates, combined with utilization, and turned into rate-uplift opportunities for review. Utilization-weighted opportunities by code, payer, and plan AI-normalized rates from PDFs, spreadsheets, and exports Revenue-opportunity and uplift prompts where volume matters Compliance, automated Delegated Credentialing Delegated credentialing tasks \u2014 roster files, monthly attestations, audit-ready trails \u2014 move through AI-supported workflows so your delegated agreements actually save you time. Auto-generated payer roster files with AI-assisted reconciliation Audit-ready event history per provider Re-credentialing on a schedule, not a scramble By the numbers Built for revenue cycle teams that need clean automation. 01 0 % Less manual rate review 02 0 % Time saved for credentialing teams 03 0 Clinics supported across 44 states What it does for you The revenue cycle operations you used to live with, automated. Every file, instantly understood Document Ingestion Credentialing documents are classified the moment they land, key fields are captured, expirations surface early, and missing items are flagged before a packet ever stalls. Auto-classify licenses, DEAs, malpractice, board certs, sanctions Field-level extraction with confidence scoring Predictive alerts before anything expires Inbox \u00b7 Auto-classified PDF DEA Certificate \u00b7 TX Validated PDF State License \u00b7 CA Expires in 28 days PDF Board Cert \u00b7 ABFM Validated PDF COI \u00b7 Malpractice Missing PDF DEA Certificate \u00b7 CA Validated Applications ready immediately Payer Enrollment Application Prep Payer enrollment applications are prepared through agentic workflows that use current, validated provider data, so coordinators can review and complete forms without copying fields between PDFs. AI-drafted state and payer applications from current provider data One source of truth for every application field Application \u00b7 Aetna \u00b7 TX NPI 1467890123 DEA BX1234567 License M-29481 Specialty Family Medicine Tax ID 82-\u2022\u2022\u2022\u2022\u2022\u2022\u2022 Practice Sunrise Health Pre-filled from current source-of-truth \u00b7 0 manual fields Every market, queue, and next step in view Visibility & Reporting Give teams one operating view for provider status, payer follow-up, market-based access, filters, reporting, and analytics across credentialing and payer workflows. Market, payer, provider, owner, and location-based filtering Role- and market-based access for distributed teams Reporting and analytics across credentialing, enrollment, and payer work Queues for stale follow-ups, missing items, and upcoming deadlines Visibility dashboard \u00b7 Markets and queues Southeast market Credentialing Owner: all Open only Open 49 Markets 6 Due soon 12 Southeast Maya Follow-up 18 Texas Jon Missing items 7 Northeast Leah Payer review 24 Filtered report \u00b7 Southeast market \u00b7 18 open follow-ups One inbox, every payer Centralized Communications Centralized messaging assembles credentialing packets, organizes payer follow-ups, and keeps the whole team aligned in one thread. Auto-assembled packets per payer requirements AI-drafted follow-ups with threaded history per provider Live payer follow-up workspace for the whole team AI email thread \u00b7 BCBS-TX \u00b7 packet #4291 We received the packet but need updated COI by 03/05. AI drafted reply: updated COI attached. Please confirm the packet is back in review. Confirmed. Packet is back in payer review. AI will email again on 03/12 if status is still pending Uplift opportunities surfaced Fee Schedule Automation Fee schedules are extracted, normalized into code-level rates, combined with utilization, and turned into rate-uplift opportunities for review",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Sophia Clark",
+        "title": "Founder/CEO",
+        "bio": "Building Harbera. Previously engineer at House Rx (specialty pharmacy tech startup). Engineering intern at Facebook and Bridgewater; investment analyst at Inkef Capital (European health + tech VC). Studied Computer Science at Harvard with Veronica.",
+        "linkedin_url": "https://www.linkedin.com/in/sophia-c-07a508b8/",
+        "twitter_url": ""
+      },
+      {
+        "name": "Veronica Nutting",
+        "title": "Founder/CTO",
+        "bio": "Building Harbera. Previously backend engineer at Stripe. Investment engineering intern at Bridgewater; ML intern at Alife Health (fertility AI startup). Studied Computer Science at Harvard with Sophia.",
+        "linkedin_url": "https://www.linkedin.com/in/veronicanutting/",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Harbera \ud83c\udfe5 AI healthcare provider credentialing\nVeronica and Sophia here, we\u2019re building Harbera. Harbera is AI software that helps healthcare organizations keep their providers - physicians, dentists, nurse practitioners - in-network with insurers and compliant.\n\n<https://youtu.be/75SKmVEMBvs>\n\n## Without credentials doctors can\u2019t treat patients\n\nCredentialing is the bureaucratic process of verifying a providers\u2019 qualifications and contracting them with insurance plans. The 900+ insurance companies across the U.S. have different and ever-changing credentialing requirements, and providers need to be re-credentialed regularly.\u00a0\n\nKeeping providers credentialed is critical. If a provider falls out-of-network, it can take months to get credentialed again. Health systems are often unaware that a provider has fallen out-of-network until claims start getting denied, leading to disrupted patient care and billions in lost revenue.\n\n## Monitoring credentialing is hard and gets harder at scale\n\nThere\u2019s a lot that administrators need to keep track of: updates to insurance plan requirements\u00a0(often mailed), license and certification expirations, malpractice sanctions, re-credentialing timelines, and more. Today, many back-office teams at hospitals and clinic groups use spreadsheets, filing cabinets, or even repurpose tools like Salesforce to track credentialing.\n\nHere\u2019s why monitoring is challenging for organizations:\n\n* A telehealth company that accepts 10 insurance plans and works with 100 therapists across 30 states needs to track up to 30,000 statuses.\n* A dental group working with 200 dentists needs to track 8,000 statuses. (Dentists are enrolled in over 40 insurance plans on average.)\n\n## What we\u2019re doing\n\nWe are making credentialing easy. Our software integrates with a healthcare organization\u2019s existing systems to continuously monitor and proactively re-credential providers across states and insurance plans. We keep administrators in the loop so providers never fall out-of-network. We make onboarding new providers seamless with real-time document validation. We analyze credentialing trends to identify revenue growth opportunities and optimize staffing.\n\n## About us\n\nWe\u2019re best friends from college. We studied and taught Computer Science together at Harvard. [Veronica](https://www.linkedin.com/in/veronicanutting/) was a software engineer at Stripe, and [Sophia](https://www.linkedin.com/in/sophia--clark/) was a software engineer at House Rx, a specialty pharmacy sof",
+    "job_titles": [],
+    "hn": {
+      "domain": "harbera.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://harbera.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/harbera",
+        "note": "YC Launch post"
+      }
+    ]
+  },
+  {
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "website": "https://paratushealth.com/",
+    "one_liner": "healthcare AI",
+    "description": "Voice agents for outpatient facilities. ",
+    "industry": "Healthcare",
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "team_size": 2,
+    "year_founded": 2024,
+    "location": "San Francisco, CA, USA",
+    "batch": "Winter 2025",
+    "yc_status": "Active",
+    "yc_stage": "Early",
+    "launched_at": 1739954707,
+    "yc_url": "https://www.ycombinator.com/companies/paratus-health",
+    "site_text": "Paratus Health | Gen AI built for healthcare phone lines Do more. Scale faster. Care smarter. Gen AI Built for Healthcare. Designed for Your Phone Lines. Book a demo Book a demo Trusted by hundreds of companies Paratus Health Blog Case studies Locations California Florida Texas Book a demo Book a demo Impact by Numbers 600000 Patient Interactions with Paratus's Voice AI More Patients +20% average new patient growth. Lower Costs -60% admin + call expenses. Faster Launch Go live in just 3 weeks. Thank You for Using Paratus health We can answer questions or facilitate a demo targeting your specific needs. Book a call Book a call Try again Try again 24/7 Available 10+ Specialties 50+ Workflows 98% Satisfaction You understand clinical chaos. So do we. Ready to Transform Your Practice? 100% Reduce administrative burden response rate across voice, text, and chat channels. 25% improvement over standard front-desk performance. 18% Increase throughput without increasing workload more appointments scheduled daily. On average, 3 additional bookings per location, per day. 95% Enhance access and patient experience reduction in patient wait times. Resulting in higher NPS, improved satisfaction, and reduced drop-offs. Book a demo Book a demo Trusted by 100+ PHYSICIANS Recognized by leading clinical providers Hear from the frontlines of care delivery. READ THEIR EXPERIENCE Experience It Live \"We needed something that would integrate with our current system and actually reduce our workload, not create more documentation. What used to took two to three staff members making daily outbound calls now runs entirely on autopilot. The difference has been incredible\u2014our team is more efficient, and patient satisfaction has never been higher!\" Clinic Manager 75 physician pediatric clinic Experience It Live \"Before Paratus, scheduling was the biggest headache in our clinic\u2014missed calls, constant reschedules, and staff always stressed. Now the AI takes care of it. Patients confirm on their own, our schedule actually runs on time, and the front desk isn\u2019t drowning in calls. It\u2019s made the whole clinic feel calmer.\" Clinic Doctor OB/GYN Experience It Live \"After implementing Paratus Health's AI voice agent, our after-hours care transformed overnight\u2014literally. Wait times dropped to zero, and we were finally able to redeploy the equivalent of four full-time nursing staff back into daytime care. We completed the rollout in just two weeks, with hardly any disruption. The result? An outstanding 94% patient satisfaction rating and a major boost in team morale.\" Physician At a Paratus Client WHAT WE HANDLE Free up your team for what matters most AI-powered solutions that automate routine tasks and enhance patient experiences. FRONT OFFICE Streamline Patient Access 100% of calls answered. Every conversation handled, end-to-end. 24/7 appointment scheduling Insurance verification & intake Reduce no-shows BACK OFFICE Automate Admin, Focus on Care Offload routine tasks with AI. Automated bill pay Reschedule no-shows Close care gaps GROWTH Grow with Intelligent Outreach Keep schedules full, automatically. Instant response to inquiries Convert leads into appointments Re-engage lapsed patients Book a demo Book a demo BETTER ACCESS, BETTER EXPERIENCE What sets Paratus Health apart The next generation of patient communication\u2014powered by AI, designed for people. Book a demo Book a demo Scales but feels like staff Automate workflows without losing the empathy patients expect. Fits right into your stack No rip-and-replace. Just seamless integration. No IT team required Get live quickly without technical overhead. End the phone tree AI conversations that actually help patients. inspired by OpenDental Clinic \"Other solutions couldn\u2019t deliver the reliability we needed. Paratus understood healthcare and patient communication, and quickly became the seamless partner we\u2019d been looking for.\" CEO Dental Clinic inspired by Athena clinic \"Most vendors didn\u2019t get our workflows. Paratus listened, adapted fast, and within weeks their AI was saving our clinicians time while keeping patients happy.\" Physician Orthopedic clinic privacy & security Medical conversations are deeply personal. We designed Paratus from day one with privacy and security as first-class priorities. We handle the calls. You handle the care. Book a call Book a call Paratus Health Transforming high-risk patient care and workflows through AI automation and human-centered design. About Blog Case studies Connect \u00a9 2025 Paratus Health, Inc. All rights reserved. Terms Privacy",
+    "site_fetch_ok": true,
+    "founders": [
+      {
+        "name": "Pablo Bermudez-Canete",
+        "title": "Founder/CEO",
+        "bio": "Digital Healthcare | Stanford CS - AI | Spain",
+        "linkedin_url": "https://www.linkedin.com/in/pablobermudezcanete?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "twitter_url": ""
+      },
+      {
+        "name": "Tannen Hall",
+        "title": "Founder/CTO",
+        "bio": "Digital Healthcare | Stanford CS - AI",
+        "linkedin_url": "https://www.linkedin.com/in/tannen-hall/",
+        "twitter_url": ""
+      }
+    ],
+    "github_url": "",
+    "launch_text": "Paratus Health \u2013 Conversational Patient Intake\n### **Introducing Paratus \u2013 AI-Powered Patient Intake**\n\n**TL;DR**\n\nPatients wait months for an appointment, often with no guidance or symptom tracking in the meantime. When they finally see a doctor, the first 5-10 minutes of the visit are wasted gathering history instead of diagnosing and treating.\n\n**Right now, there are only two ways to handle patient intake:**\n\n* **Static intake forms** \u2013 Miss key details, forcing doctors to play catch-up.\n* **Triage nurses** \u2013 Costly, difficult to scale, and still prone to oversight.\n\nParatus changes this. Our AI-powered intake assistant gathers symptoms, flags concerns, and delivers a structured clinical summary before the visit even starts\u2014so doctors walk in fully informed.\n\nWatch our demo [here](https://youtu.be/KHh7fp5svY8).\n\n### **It\u2019s Time for a New Wave of AI-Powered Intake**\n\n\u2705 **Conversational AI engages patients before their visit,** collecting deeper insights than any form ever could.\\\n\u2705 **Doctor-approved triage** \u2013 Uses **500+ Schmitt-Thompson protocols** and cross-checks medical literature.\\\n\u2705 **Instant structured reports** \u2013 Doctors walk in fully prepared with:\n\n* Symptom history & differential considerations\n* Next steps & testing recommendations\n* A pre-visit SOAP note for the EHR\n* A full conversation transcript for review\n\n**Think of it as a triage nurse who never misses a detail\u2014at a fraction of the cost.**\n\n### **How It Works**\n\n1. **Instant Patient Connection** \u2013 The patient clicks an SMS link and connects with our AI assistant.\n2. **Conversational AI Consultation** \u2013 Our AI dynamically adapts to responses, uncovering key details just like a triage nurse.\n3. **Automated Pre-Visit Reports** \u2013 We run the full transcript through our fine-tuned LLM, extracting structured insights for the doctor.\n\n### **The Problem: Long Waits & Inefficient Intake**\n\n* **Months-long wait times** leave patients in limbo with no support.\n* **Doctors start visits blind**, leading to rushed decisions and missed symptoms.\n* **Triage nurses are expensive and inefficient**, yet essential for collecting high-quality data.\n\nParatus solves these problems, ensuring patients feel heard before their visit and doctors can focus on diagnosis, not data collection.\n\n### **What Patients Are Saying**\n\n_\"I called as a mother for my son\u2019s ear pain. I was impressed by the AI\u2019s clarity, empathy, and ability to ask the right questions. Honestly, it was better to talk to than a real nurse!\"_\n\n###",
+    "job_titles": [],
+    "hn": {
+      "domain": "paratushealth.com",
+      "found": false,
+      "story_count": 0,
+      "max_points": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "is_show_hn": false,
+      "top_title": "",
+      "top_url": "",
+      "most_recent": ""
+    },
+    "sources": [
+      {
+        "kind": "yc",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "YC company profile"
+      },
+      {
+        "kind": "website",
+        "url": "https://paratushealth.com/",
+        "note": "Company homepage"
+      },
+      {
+        "kind": "yc-founders",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "2 founder profile(s)"
+      },
+      {
+        "kind": "yc-launch",
+        "url": "https://www.ycombinator.com/companies/paratus-health",
+        "note": "YC Launch post"
+      }
+    ]
+  }
+]

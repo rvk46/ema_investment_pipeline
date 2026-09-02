@@ -5,6 +5,7 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+*.egg-info/
 # LLM + network cache (raw fetches ARE committed under data/raw; call-cache is not)
 .cache/
 # local harness state
